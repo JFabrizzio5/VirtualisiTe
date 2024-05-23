@@ -1,4 +1,5 @@
 # VirtualisiTe
-Aplicacion de reservar y virtualiar negocios 
-Look and feel mobile:
-https://miro.com/welcomeonboard/OG5CZDBrMmlocGVPNXlqbGpTdlZ4Y2RjN29WVDF3Y3dUSTNzWmZwanJiQlVaamdXYmVJUktKaUlvcVp3NnU4Y3wzNDU4NzY0NTE4MjQzODM0MDM4fDI=?share_link_id=30114525413
+
+Rama exclusivo para el desarrollo web y backend del servidor
+#Arquitectura del proyecto
+https://excalidraw.com/#json=FKITRZgQpoPSoGOYFtTjk,kZXMZ5XLCoTCJiuO2XpNvA
